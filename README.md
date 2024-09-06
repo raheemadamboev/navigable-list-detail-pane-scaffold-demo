@@ -2,7 +2,7 @@
 
 A simple app that demonstrates using NavigableListDetailPaneScaffold to adaptively showing composables.
 
-Download demo](https://github.com/raheemadamboev/navigable-list-detail-pane-scaffold-demo/blob/main/app-debug.apk)
+[Download demo](https://github.com/raheemadamboev/navigable-list-detail-pane-scaffold-demo/blob/main/app-debug.apk)
 
 This is how composables displayed in phone screen:
 
