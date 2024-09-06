@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NavigableListDetailPaneScaffoldDemo</string>
+
+    <!-- Main -->
+    <string name="your_item">Item %1$d</string>
+    <string name="select_item">Select an item</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="select_option">Select an option</string>
 </resources>
