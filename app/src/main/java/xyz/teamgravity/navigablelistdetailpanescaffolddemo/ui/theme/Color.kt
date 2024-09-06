@@ -1,4 +1,4 @@
-package xyz.teamgravity.myapplication.ui.theme
+package xyz.teamgravity.navigablelistdetailpanescaffolddemo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
